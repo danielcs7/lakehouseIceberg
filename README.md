@@ -6,7 +6,7 @@ Este Lab não deve de forma alguma ser usado em ambiente de produção pelo simp
 
 ## Objetivo Principal
 
-Desenvolvi este pequeno lab para suportar a ninha trilha de aprendizado do Apache Iceberg. Este Lab me permite explorar melhor as funcionalidades de gerenciamento de dados em larga escala, os 'pros' e os 'contras' que envolvem esse formato de tabela.
+Desenvolvi este pequeno lab para suportar a minha trilha de aprendizado do Apache Iceberg. Este Lab me permite explorar melhor as funcionalidades de gerenciamento de dados em larga escala, os 'pros' e os 'contras' que envolvem esse formato de tabela.
 Além de entender melhor conceitos como versionamento, particionamento dinâmico e otimização de consultas inerentes ao Apache Iceberg. Com isso, espero estar melhor preparado para aplicar essas técnicas em projetos reais e contribuir para soluções de dados mais robustas e modernas.
 
 ### Principais Recursos do Apache Iceberg
@@ -42,7 +42,7 @@ Além de entender melhor conceitos como versionamento, particionamento dinâmico
 Baixe o projeto
 
 ```sh
-git clone https://github.com/ac-gomes/spark-iceberg-hive
+git clone https://github.com/danielcs7/lakehouseIceberg.git
 ```
 ```sh
 cd spark-iceberg-hive
@@ -78,9 +78,6 @@ Ao final da execução do docker os recurso estão acessiveis nos endereço:
 
 ![Data Lakehouse](./img/resutado_esperado.png)
 
-## Tutorial em Video
-
-YouTube: https://youtu.be/OSpUWmOFYQ4
 
 ## Introdução ao Apache Iceberg
 
